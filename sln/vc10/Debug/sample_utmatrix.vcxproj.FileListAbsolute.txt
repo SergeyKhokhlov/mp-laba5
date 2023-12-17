@@ -1,0 +1,3 @@
+C:\Users\sergey\Desktop\lab1\mp2-lab2-matrix-master\sln\vc10\Debug\sample_utmatrix.exe
+C:\Users\sergey\Desktop\mp-lab3-stack-and-queue-main\sln\vc10\Debug\mp-lab3.exe
+C:\Users\sergey\Desktop\mp-lab5\sln\vc10\Debug\mp-lab3.exe
