@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, sample_utmatrix.vcxproj, test_lab3.vcxproj, test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  sample_queue_proc.cpp
+C:\Users\sergey\Desktop\mp-lab5\samples\sample_queue_proc.cpp(12,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sergey\Desktop\mp-lab5\include\TProc.h(55): warning C4715: TProc::RunNewJob: значение возвращается не при всех путях выполнения
+sample_queue_proc.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  sample_utmatrix.vcxproj -> C:\Users\sergey\Desktop\mp-lab5\sln\vc10\Debug\mp-lab3.exe

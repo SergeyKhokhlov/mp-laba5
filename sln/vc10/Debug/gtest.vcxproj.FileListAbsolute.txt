@@ -1,0 +1,3 @@
+C:\Users\sergey\Desktop\lab1\mp2-lab2-matrix-master\sln\vc10\Debug\gtest.lib
+C:\Users\sergey\Desktop\mp2-lab2-matrix-master\sln\vc10\Debug\gtest.lib
+C:\Users\sergey\Desktop\mp-lab3-stack-and-queue-main\sln\vc10\Debug\gtest.lib
